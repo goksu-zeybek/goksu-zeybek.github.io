@@ -12,7 +12,7 @@ title                    : "Göksu Zeybek"
 title_separator          : "-"
 name                     : &name "Göksu Zeybek"
 description              : &description ""
-url                      : https://cecile-macaire.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://goksu-zeybek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "goksu-zeybek/goksu-zeybek.github.io"
 
