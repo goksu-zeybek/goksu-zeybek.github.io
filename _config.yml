@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cecile Macaire"
+title                    : "Göksu Zeybek"
 title_separator          : "-"
-name                     : &name "Cecile Macaire"
-description              : &description "personal description"
+name                     : &name "Göksu Zeybek"
+description              : &description ""
 url                      : https://cecile-macaire.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cecile-macaire/cecile-macaire.github.io"
+repository               : "goksu-zeybek/goksu-zeybek.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,11 +22,11 @@ repository               : "cecile-macaire/cecile-macaire.github.io"
 author:
   # Biographic information
   avatar           : "website3.png"
-  name             : "Cecile Macaire"
+  name             : "Göksu Zeybek"
   pronouns         : # example: "she/her"  
-  bio              : "Economics Pre-doctoral Fellow at Yale University"
+  bio              : "Pre-doctoral Fellow at Yale Tobin Center for Economic Policy"
   uri              : # URL
-  email            : "cecile.macaire@yale.edu" 
+  email            : "goksu.zeybek@yale.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
