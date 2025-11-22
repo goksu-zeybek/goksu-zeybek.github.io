@@ -21,7 +21,7 @@ repository               : "goksu-zeybek/goksu-zeybek.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "goksu-zeybek.github.io/images/profile.jpg"
+  avatar           : "/images/profile.png"
   name             : "Göksu Zeybek"
   pronouns         : # example: "she/her"  
   bio              : "Pre-doctoral Fellow at Yale Tobin Center for Economic Policy"
